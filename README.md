@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://octodex.github.com/images/femalecodertocat.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://octodex.github.com/images/femalecodertocat.png" height="75px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shalini</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -76,7 +76,7 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/shalini-dutta-9a6a86211/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
